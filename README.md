@@ -44,6 +44,11 @@ The Python script (hand_angle_estimation.py) performs the following:
 
 
 
+
+
+
+
+
 hand_face_estimation.py
 # **Real-time Holistic Tracking using MediaPipe and OpenCV**
 This project demonstrates real-time holistic tracking using MediaPipe and OpenCV. It utilizes the Holistic model from MediaPipe to detect and visualize face landmarks, hand gestures, and body poses from a live webcam feed.
@@ -76,6 +81,17 @@ Run the holistic_tracking.py script to start hand tracking using your webcam:
 ```
 python hand_face_estimation.py
 ```
+
+## **Results**
+The script visualizes the following in the webcam feed:
+- Face Landmarks: Displayed with unique colors and contours.
+- Right Hand Gestures: Marked with connections and circles for each landmark.
+- Left Hand Gestures: Similar visualization as the right hand.
+- Body Poses: Detected and displayed with connecting lines.
+![image](https://github.com/Devansh-Gupta-Official/Pose-Estimation/assets/100591612/0d75afda-0b3c-479c-aaf7-7a7a6c0b3117)
+
+
+
 
 
 
