@@ -1,6 +1,6 @@
 # Pose-Estimation
 
-hand_angle_estimation.py
+#***hand_angle_estimation.py***
 # **Real-time Hand Tracking with MediaPipe and OpenCV**
 This project showcases real-time hand tracking using MediaPipe and OpenCV. It detects hand landmarks, calculates angles between finger joints, and visualizes the results in a live video stream.
 
@@ -45,7 +45,7 @@ The Python script (hand_angle_estimation.py) performs the following:
 
 
 
-hand_face_estimation.py
+#***hand_face_estimation.py***
 # **Real-time Holistic Tracking using MediaPipe and OpenCV**
 This project demonstrates real-time holistic tracking using MediaPipe and OpenCV. It utilizes the Holistic model from MediaPipe to detect and visualize face landmarks, hand gestures, and body poses from a live webcam feed.
 
